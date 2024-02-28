@@ -1,4 +1,4 @@
-### Hi there 👋
+jsuis la pour faire du bif sa mere!! pas la pour coder des applis de zamel !!! 👋
 
 <!--
 **cedricscbjj/cedricscbjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
