@@ -6,6 +6,8 @@ Développement Back-end : Node.js, Express.js
 Développement Front-end : HTML, CSS, JavaScript
 Base de données : MongoDB, SQL
 Autres technologies : React.js,  Bootstrap
+
+
 Mes passions :
 En dehors du développement, je suis passionné par les arts martiaux, en particulier le jiu-jitsu brésilien. J'ai trouvé dans cette discipline une source d'inspiration et de discipline qui se reflète dans mon approche du développement logiciel.
 
