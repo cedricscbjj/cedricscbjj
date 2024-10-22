@@ -1,5 +1,4 @@
-Salut, je suis Cedric
-Je suis un développeur fullstack passionné par la création d'applications web innovantes et conviviales. Avec une solide expérience dans les technologies telles que Node.js, HTML, CSS, Express, et JavaScript.
+Passionné par la création d'applications web innovantes et conviviales. Avec une solide expérience dans les technologies telles que Node.js, HTML, CSS, Express, et JavaScript.
 
 Compétences techniques :
 Développement Back-end : Node.js, Express.js
