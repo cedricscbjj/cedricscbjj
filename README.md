@@ -1,18 +1,7 @@
-Passionné par la création d'applications web innovantes et conviviales. Avec une solide expérience dans les technologies telles que Node.js, HTML, CSS, Express, et JavaScript.
-
-Compétences techniques :
-Développement Back-end : Node.js, Express.js
-Développement Front-end : HTML, CSS, JavaScript
-Base de données : MongoDB, SQL
-Autres technologies : React.js,  Bootstrap
-
-
-Mes passions :
-En dehors du développement, je suis passionné par les arts martiaux, en particulier le jiu-jitsu brésilien. 
-
-Je suis également fasciné par l'astronomie et l'univers infini qui nous entoure. 
-
-Enfin, j'ai un profond intérêt pour le design graphique et l'art en général. 
+Hi guys !!! 
+🔭 I’m currently working on SQL bash and Vue.js
+🌱 I’m currently learning SQL Vue.js and still on Vanilla javascript!!!
+⚡ Fun fact: I earned my bjj black belt on september✨✨✨✨
 
 <!--
 **cedricscbjj/cedricscbjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
