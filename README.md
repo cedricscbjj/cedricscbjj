@@ -1,6 +1,6 @@
 Hi guys !!! 
 🔭 I’m currently working on my Google cybersecurity certification
-🌱 I’m currently learning SQL Vue.js and still on Vanilla javascript!!!
+🌱 But im also still on Vanilla javascript!!!
 ⚡ Fun fact: I earned my bjj black belt on september✨✨✨✨
 
 <!--
