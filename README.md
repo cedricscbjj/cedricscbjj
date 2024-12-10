@@ -1,5 +1,5 @@
 Hi guys !!! 
-🔭 I’m currently working on SQL bash and Vue.js
+🔭 I’m currently working on my Google cybersecurity certification
 🌱 I’m currently learning SQL Vue.js and still on Vanilla javascript!!!
 ⚡ Fun fact: I earned my bjj black belt on september✨✨✨✨
 
